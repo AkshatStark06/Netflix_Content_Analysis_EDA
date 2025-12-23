@@ -42,17 +42,12 @@ The project combines Python-based EDA with an interactive Power BI dashboard to 
 ## 📊 Power BI Dashboard
 ### 🔹 Overview Page
 
-#### KPIs:
-
-* Total Titles
-
-* Movies vs TV Shows distribution
-
-* Total Genres
-
-* Total Ratings
-
-* Content timeline (Start–End year)
+* KPIs:
+  * Total Titles
+  * Movies vs TV Shows distribution
+  * Total Genres
+  * Total Ratings
+  * Content timeline (Start–End year)
 
 * Content split between Movies and TV Shows
 
@@ -77,32 +72,30 @@ The project combines Python-based EDA with an interactive Power BI dashboard to 
 * Significant growth in content additions occurred between 2016 and 2019.
 
 * Netflix follows a mixed content strategy, combining:
-
-* New originals
-
-* A large library of older licensed content
+  *  New originals
+  *  A large library of older licensed content
 
 * The platform has a strong global footprint, led by:
 
-* United States
+  * United States
 
-* India
+  * India
 
-* United Kingdom
+  * United Kingdom
 
-Content is primarily targeted at mature audiences, with TV-MA and TV-14 as the most common ratings.
+* Content is primarily targeted at mature audiences, with TV-MA and TV-14 as the most common ratings.
 
-Most movies have a duration of 90–120 minutes, while many TV shows consist of a single season.
+* Most movies have a duration of 90–120 minutes, while many TV shows consist of a single season.
 
-Frequent themes in descriptions include:
+* Frequent themes in descriptions include:
 
-* Life
+  * Life
 
-* Family
+  * Family
 
-* Love
+  * Love
 
-* World
+  * World
 
 ## 🚩 Problem Addressed
 
